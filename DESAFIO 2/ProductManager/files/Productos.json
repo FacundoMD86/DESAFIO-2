@@ -1,0 +1,38 @@
+[
+	{
+		"id": 2,
+		"nombre": "sigas 32",
+		"descripcion": "fusion",
+		"precio": "10000",
+		"thumbnail": null,
+		"codigo": "10",
+		"stock": "100"
+	},
+	{
+		"id": 3,
+		"nombre": "sigas 32",
+		"descripcion": "fusion",
+		"precio": "10000",
+		"thumbnail": null,
+		"codigo": "10",
+		"stock": "100"
+	},
+	{
+		"id": 4,
+		"nombre": "sigas 32",
+		"descripcion": "fusion",
+		"precio": "10000",
+		"thumbnail": null,
+		"codigo": "10",
+		"stock": "100"
+	},
+	{
+		"id": 5,
+		"nombre": "sigas 32",
+		"descripcion": "fusion",
+		"precio": "10000",
+		"thumbnail": null,
+		"codigo": "10",
+		"stock": "100"
+	}
+]
